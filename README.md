@@ -32,7 +32,7 @@ Web platform to manage and share training and fight videos for a boxing gym.
 Tech: React · Tailwind
 https://github.com/jopiatomas/boxing-club  
 
- **Delivery App**  
+ **Delivery Web App**  
 Full stack web application simulating a food delivery platform with authentication and product management.  
 Tech: Angular · Spring Boot · MySQL  
  https://github.com/jopiatomas/quickish-delivery-frontend
